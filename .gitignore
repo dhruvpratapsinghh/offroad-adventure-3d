@@ -1,0 +1,11 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code editor settings
+.vscode/
+
+# OS generated files
+Thumbs.db
+.DS_Store
